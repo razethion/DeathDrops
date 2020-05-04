@@ -3,6 +3,3 @@
 
 # Info
 Should not conflict with other lores. Designed to add lore to the bottom of all other lores.
-
-# Todo
-Auto-remove drop when user picks up item with lore
