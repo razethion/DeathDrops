@@ -105,7 +105,7 @@ public class DeathDrops extends JavaPlugin implements Listener {
 
 		// Get the item's lore and remove it if it has DEATH_DROP_IDENTIFIER
 		final List<String> lore = item.getItemMeta().getLore();
-		if (lore.stream().anyMatch(line -> line.startsWith(DEATH_DROP_IDENTIFIER)))
+		if (lore.stream().anyMatch(line -> line.equals(DEATH_DROP_IDENTIFIER + " " + player.getName())))
 			removeLoreEntry(item);
 
 	}
