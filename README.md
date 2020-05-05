@@ -1,6 +1,6 @@
 # DeathDrops
 1.13-1.15.2 plugin that adds lores to items when a player dies to identify who it belongs to
-Latest version: 1.2
+Latest version: 1.2.2
 
 # Info
 Should not conflict with other lores. Designed to add lore to the bottom of all other lores.

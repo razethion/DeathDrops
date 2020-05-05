@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DeathDrops/src"/>
+	<classpathentry kind="lib" path="builds/deathDrops-1.0-1.15.2.jar"/>
+	<classpathentry kind="lib" path="builds/deathDrops-v1.1-1.15.2.jar"/>
+	<classpathentry kind="lib" path="builds/deathDrops-v1.2-1.13-1.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Razeth/Downloads/spigot-api-1.15.2-R0.1-20200502.075714-102-shaded.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Razeth/Downloads/spigot-api-1.15.2-R0.1-20200502.075714-102-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
