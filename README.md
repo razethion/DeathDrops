@@ -7,3 +7,6 @@ Should not conflict with other lores. Designed to add lore to the bottom of all 
 
 # Download
 You can download the compiled jar from /builds
+
+# Spigot plugin page
+https://www.spigotmc.org/resources/deathdrops.78336/
